@@ -9,8 +9,8 @@ prism: true
         <p class="text-center text-base leading-6 font-medium text-gray-500">
             <time> {{ date | readableDate }}
                 by
-                <a>{{ author }}</a>
-
+                <a>{{ author }}</a> <br> 
+                <a href="/neat-starter/_site/" class="m-1 bg-gray-200 hover:bg-gray-300 rounded-full px-2 font-bold text-sm leading-loose cursor-pointer">{{ tags }}</a>
             </time>
         </p>
 
