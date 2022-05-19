@@ -1,7 +1,8 @@
 ---
 items:
-  - text: Blog
-    url: "/blog"
-  - text: C³ News
-    url: "/C3"
+  - text: Club News
+    url: "/news"
+  - text: Student Advisory Council News
+    url: "/sac-news"
+
 

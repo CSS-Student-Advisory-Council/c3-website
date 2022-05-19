@@ -1,14 +1,14 @@
 ---
 links:
   - title: Who We Are
-    url: ""
+    url: "/about"
     desc: 
   - title: Our Projects
-    url: ""
+    url: "projects"
     desc: 
   - title: Get Connected
-    url: ""
+    url: "/socials"
     desc: 
   - title: Roadmap
-    url: "posts/this-is-latest-post/" # can use this to link posts
+    url: "https://trello.com/b/hfAgv6WS/public-roadmap-computing-careers-club" # can use this to link posts
     desc: 
