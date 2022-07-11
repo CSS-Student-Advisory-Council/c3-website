@@ -13,7 +13,7 @@ git clone https://github.com/CSS-Student-Advisory-Council/c3-website.git
 ### 2\. Navigate to the directory
 
 ```
-cd neat-starter
+cd c3-website
 ```
 
 ### 3\. Install dependencies
