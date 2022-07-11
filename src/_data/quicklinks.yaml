@@ -1,13 +1,13 @@
 ---
 links:
-  - title: Who We Are
-    url: "/about"
+  - title: About C3 & SAC
+    url: "posts/about"
     desc: 
   - title: Our Projects
-    url: "projects"
+    url: "posts/projects"
     desc: 
-  - title: Get Connected
-    url: "/socials"
+  - title: Get Involved
+    url: "posts/apply"
     desc: 
   - title: Roadmap
     url: "https://trello.com/b/hfAgv6WS/public-roadmap-computing-careers-club" # can use this to link posts

@@ -7,15 +7,15 @@ prism: true
     <div class="pb-5 mb-5 border-b border-gray-100">
         <h1 class="font-bold text-5xl">{{title}}</h1>
         <p class="text-center text-base leading-6 font-medium text-gray-500">
-            <time> {{ date | readableDate }}
+           <!--  <time> {{ date | readableDate }}
                 by
                 <a>{{ author }}</a> <br> 
                 <a href="/neat-starter/_site/" class="m-1 bg-gray-200 hover:bg-gray-300 rounded-full px-2 font-bold text-sm leading-loose cursor-pointer">{{ tags }}</a>
-            </time>
+            </time> -->
         </p>
 
     </div>
-    <article class="prose lg:prose-xl my-4 mx-auto">
+    <article class="prose max-w-none lg:prose-lg my-4 mx-auto">
         {{ content | safe }}</article>
 
 </div>

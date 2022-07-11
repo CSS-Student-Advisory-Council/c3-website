@@ -1,8 +1,14 @@
 ---
 items:
-  - text: Club News
-    url: "/news"
-  - text: Student Advisory Council News
-    url: "/sac-news"
+#  - text: Posts
+#    url: "/posts"
+#  - text: Student Advisory Council News
+#    url: "/sac-news"
+   - text: Github
+     url: https://github.com/CSS-Student-Advisory-Council
 
+   - text: Linkedin 
+     url: https://www.linkedin.com/company/css-student-advisory-council
 
+   - text: Discord
+     url: https://discord.gg/eZsKfhU72G
