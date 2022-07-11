@@ -7,7 +7,7 @@
 ### 1\. Clone this Repository
 
 ```
-git clone https://github.com/surjithctly/neat-starter.git
+git clone https://github.com/CSS-Student-Advisory-Council/c3-website.git
 ```
 
 ### 2\. Navigate to the directory
