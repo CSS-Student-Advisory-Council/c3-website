@@ -1,12 +1,14 @@
 ---
-title: Projects
+title: 
 description: 
 author: C3 Team
 date: 2022-05-18
 tags: 
 ---
 
-This list is not exhaustive! 
+This list is not exhaustive! If you have any questions about these projects, feel free to reach out to us on our Discord server (Linked in top navigation)
+
+
 
 # C3 Projects 
 | Project                                                                              | Contributors                        | Description                                                                                   |
@@ -29,3 +31,10 @@ This list is not exhaustive!
 
 
 *Last updated: July 11th, 2022*
+
+---
+
+# Interested in our projects?
+# [Apply Here](https://forms.gle/8j6GAaDwQZefcFSu8)
+
+---
