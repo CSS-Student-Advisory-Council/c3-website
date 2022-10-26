@@ -1,5 +1,5 @@
 ---
-title: Inerested in  C³ / SAC ?
+title: Interested in  C³ / SAC ?
 description: 
 author: C3 Team
 date: 2022-05-18
