@@ -36,6 +36,20 @@ npm run build
 npm run start
 ```
 
+### Contributing 
+This repository has a *src/* directory and a *_site/* directory. 
+
+The *src/* directory contains our elements for the website. The *_site/* directory is the main directory for the website. 
+
+For making changes to the text on the website, you can do it easily by modifying the markdown files in *src/posts/*.  After you make changes, run 
+```npm run build``` 
+to convert them into HTML.
+
+For adding JavaScript to the website, its a little different. All scripts need to be somewhere in the *_site/* directory. 
+This is because the website will use *_site/* as the root directory.
+
+
+
 ## Credits
 This site is based off the Neat Starter created by Surjith S M ( [@surjithctly](https://surjithctly.in/) )
 
