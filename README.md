@@ -45,7 +45,8 @@ For making changes to the text on the website, you can do it easily by modifying
 ```npm run build``` 
 to convert them into HTML.
 
-For adding JavaScript to the website, its a little different. All scripts need to be somewhere in the *_site/* directory. This is because the website will use *_site* as the root directory.
+For adding JavaScript to the website, its a little different. All scripts need to be somewhere in the *_site/* directory. 
+This is because the website will use *_site/* as the root directory.
 
 
 
