@@ -1,4 +1,4 @@
-## [Live site is up on netlify](cscareersuwb.netlify.app)
+## [Live site is up on netlify](https://cscareersuwb.netlify.app/)
 
 
 
